@@ -1,4 +1,4 @@
-# Instacart Online Grocery Data Analysis  
+# 🛒📦📈 Instacart Online Grocery Data Analysis  
 *Customer Segmentation and Revenue Insights*  
 Python scripts (Jupyter Lab) analyzing Instacart sales data (2017–~2019) to uncover shopper behaviors and product trends, supporting targeted marketing strategies.
 
